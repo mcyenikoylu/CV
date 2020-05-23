@@ -1,0 +1,26 @@
+ON,D
+Q624,15
+q831
+S3
+D10
+ZT
+JF
+oR
+N
+I8,E,001
+A50,30,0,3,2,2,N,"&D_ETK_ULO&"
+A50,70,0,2,1,1,N,"&D_ETK_UUN&"
+A50,90,0,2,1,1,N,"&D_ETK_UADR1(50)&"
+A50,120,0,4,2,3,N,"&D_ETK_MAT&"
+A50,195,0,2,2,2,N,"&D_ETK_MAKTX(25)&"
+A50,240,0,3,1,1,N,"Uretim Tarihi     :&D_ETK_UTRH&"
+A50,260,0,3,1,1,N,"Sonkullanma Tarihi:&D_ETK_STT&"
+A50,280,0,3,1,1,N,"Parti No:&D_ETK_CHARG&"
+A50,300,0,3,1,1,N,"Firma   :&D_ETK_FIRMA& &sD_ETK_FIRMAT&"
+A50,320,0,4,1,2,N,"Miktar :&D_ETK_PLT_AGR& &D_ETK_BRM&"
+B50,370,0,1,2,30,100,B,"&D_ETK_BARKOD&"
+A50,530,0,3,1,1,N,"Islem  :&sD_ETK_ISLEM&"
+A50,550,0,3,1,1,N,"Rez No :&sD_ETK_REZ&"
+A50,570,0,3,1,1,N,"Depo   :&sD_ETK_DEPO&"
+P1
+
